@@ -59,7 +59,7 @@ export default function TodoApp() {
         <div className="space-y-8">
           <div className="text-center space-y-3">
             <h1 className="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-violet-600 dark:from-indigo-400 dark:to-violet-400">
-              Todo App
+              B211210351
             </h1>
           </div>
 
